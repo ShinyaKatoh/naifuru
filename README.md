@@ -1,2 +1,2 @@
-# narufuru
+# naifuru
 なゐふるをダウンロードするコード
