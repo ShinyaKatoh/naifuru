@@ -23,6 +23,7 @@ def download_pdfs(base_url, folder_path):
             print(f'Downloaded {filename}')
         else:
             print(f'Failed to download {pdf_url}')
+    return
 
 # Usage example
 download_pdfs('https://www.zisin.jp/publications/naifuru.html','./naifuru')
